@@ -4,7 +4,11 @@
 
 ## 2022-11-2
 
-- 更换自己Blog的主题为Fluid
-- 新建本仓库，用于记录自己的学习轨迹
-- 复习了一下git和hexo常用命令
+- 更换Blog的主题为Fluid
+- 新建本仓库记录学习轨迹
+- 复习git和hexo常用命令
 
+## 2022-11-3
+
+- 《图解算法》python版Dijksra算法实现
+- 《The Shining》观影
