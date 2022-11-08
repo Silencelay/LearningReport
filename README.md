@@ -31,6 +31,10 @@
 ## 2022-11-7
 
 - 封寝的四个星期以来，第一次下楼放风
-- 读完Magic Treehouse #2:Mummies in the morning（1.5/100）
+- 读完Magic Treehouse #3:Mummies In the Morning（1.5/100）
 - podcast：Englishpod.com （2/100）
 
+## 2022-11-8
+
+- 读完Magic Treehouse #4:Pirates Past Noon（2.5/100）
+- podcast：Englishpod.com （2.5/100）
