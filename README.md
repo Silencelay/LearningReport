@@ -37,4 +37,9 @@
 ## 2022-11-8
 
 - 读完Magic Treehouse #4:Pirates Past Noon（2.5/100）
-- podcast：Englishpod.com （2.5/100）
+- podcast：Englishpod.com （3/100）
+
+## 2022-11-9
+
+- 读完Magic Treehouse #5:Night of the Ninjas（3.5/100）
+- podcast：Englishpod.com （3.5/100）
